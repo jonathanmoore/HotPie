@@ -11,6 +11,7 @@
     "coffee-script": "~1.6.3"
   },
   "devDependencies": {
-    "node-dev": "~2.0.2"
+    "node-dev": "~2.0.2",
+    "mocha": "~1.12.0"
   }
 }
